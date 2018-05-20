@@ -18,7 +18,7 @@
 
 
                         <h1 class="page-header">
-                            Welcome to heaven
+                            Welcome to admin
                             <small>Heneros</small>
                         </h1>
 
