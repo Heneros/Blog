@@ -1,4 +1,12 @@
-<?php
+<?php 
+// function confirm($result){
+//   global $connection;
+//      if(!$result){
+//     die("QUERY FAILED," . mysqli_query($connection, $query));
+//    }
+
+// }
+
            function isert_categories(){
 
            	global $connection;
